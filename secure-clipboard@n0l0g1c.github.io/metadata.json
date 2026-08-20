@@ -3,5 +3,5 @@
   "name": "Secure Clipboard",
   "description": "Watches the clipboard for secrets (keys, seeds, tokens). Secrets are not kept in history and can auto-clear after a timeout. Reads the system clipboard while enabled; nothing is sent over the network.",
   "shell-version": ["45", "46", "47", "48", "49", "50"],
-  "url": "https://github.com/N0L0g1c/Secure-Clipboard"
+  "url": "https://github.com/Vassbrekke/Secure-Clipboard"
 }
