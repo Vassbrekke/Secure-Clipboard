@@ -60,6 +60,6 @@ Optional config: `~/.config/secure-clipboard/settings.json`
 
 ## License
 
-[GPL-2.0-or-later](LICENSE). Copyright © 2026 [Vassbrekke AS](https://www.vassbrekke.no). See [COPYRIGHT](COPYRIGHT).
+[GPL-2.0](LICENSE). Copyright © 2026 [Vassbrekke AS](https://www.vassbrekke.no). See [COPYRIGHT](COPYRIGHT).
 
 Source: https://github.com/Vassbrekke/Secure-Clipboard

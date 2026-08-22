@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-2.0-or-later
+// SPDX-License-Identifier: GPL-2.0
 /* watch clipboard, drop secrets after a delay */
 
 import Clutter from 'gi://Clutter';
